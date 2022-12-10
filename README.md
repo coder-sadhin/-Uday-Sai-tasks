@@ -1,1 +1,1 @@
-# Live site (LiNK)[https://ubiquitous-custard-67fbec.netlify.app/]
+# Live site [LINK](https://ubiquitous-custard-67fbec.netlify.app)
